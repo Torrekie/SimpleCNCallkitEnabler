@@ -1,0 +1,9 @@
+Package: com.torrekie.simplecncallkitenabler
+Name: SimpleCNCallkitEnabler
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 国产软件Callkit启用，无设置，目前支持QQ微信
+Maintainer: Torrekie <me@torrekie.dev>
+Author: Torrekie <me@torrekie.dev>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
